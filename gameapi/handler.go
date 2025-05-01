@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jbowens/dictionary"
+	"github.com/Himanshu5619/dictionary"
 )
 
 // Handler implements the codenames green server handler.
