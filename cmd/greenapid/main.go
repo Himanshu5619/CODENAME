@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/jbowens/codenamesgreen/gameapi"
+	"github.com/Himanshu5619/codenamesgreen/gameapi"
 )
 
 func main() {
